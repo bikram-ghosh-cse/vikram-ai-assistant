@@ -32,9 +32,3 @@ Vikram is a **Python-based AI-powered voice assistant** that listens for command
 
 ---
 
-## 📦 Installation
-```bash
-git clone https://github.com/yourusername/vikram-voice-assistant.git
-cd vikram-voice-assistant
-pip install -r requirements.txt
-python assistant.py
